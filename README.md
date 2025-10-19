@@ -1,4 +1,9 @@
-A partial implementation of the ARM Leg8 instruction set for a 64-bit pipelined CPU.
+# ARM LEGv8 CPU
+## Authors: Geeoon Chung and Anna Petrbokova
+A partial implementation of the ARM LEGv8 instruction set for a 64-bit pipelined CPU.
+
+Was created for the University of Washington's Fall 2025 EE 469 class, Computer Architecture I.
+
 The following instructions are implemented:
 * ADDI
 * ADDS
