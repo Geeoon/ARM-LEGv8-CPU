@@ -17,5 +17,7 @@ The following instructions are implemented:
 * STUR
 * SUBS
 
+The following files were authored by Scott Hauck: `src/rtl/math.sv`, `src/rtl/memory/datamem.sv`, `src/rtl/memory/instructmem.sv`, `src/rtl/regfile/D_FF.sv`.
+
 Block Diagram:
 ![CPU block diagram with 5 stages and forwarding](https://raw.githubusercontent.com/Geeoon/ARM-LEGv8-CPU/refs/heads/main/469_block_diagram.jpg "Pipelined CPU Block Diagram")
